@@ -1,7 +1,7 @@
 # digital-clock
 
 
-- [Demo Project]()
+- [Demo Project](https://parastoo-asgari.github.io/digital-clock/)
 
 - Developed by parastoo asgari
 
